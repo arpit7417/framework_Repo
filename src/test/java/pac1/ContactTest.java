@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class ContactTest {
 	
 	@Test
-	public void createContactTeat() {
+	public void createContactTest() {
 		
 		String URL= System.getProperty("url");
 		String BROWSER= System.getProperty("browser");
